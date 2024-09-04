@@ -4,13 +4,6 @@
 A brief description of what this project does and who it's for
 
 
-## Demo
-
-- [demoLink1](https://drive.google.com/file/d/1pSaGIDEtcM-XmPJak_nZ6Mssc4cG5uYW/view?usp=drive_link)
-- [demoLink2](https://drive.google.com/file/d/1x2HZc2gG3Tu4LInNPUDaE8FMJ9c68KOH/view?usp=sharing)
-
-
-
 ## Features
 
 - displays the shortest distance between source and destination.
